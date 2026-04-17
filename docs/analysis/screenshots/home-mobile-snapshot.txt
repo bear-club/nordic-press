@@ -1,0 +1,9 @@
+uid=5_0 RootWebArea "Dagens Nyheter – senaste nyheterna från Sverige och världen" url="https://www.dn.se/"
+  uid=5_1 dialog modal
+    uid=5_2 button "Stäng" description="Stäng" focusable focused
+    uid=5_3 heading "Läs gratis i 3 månader!" level="2"
+    uid=5_4 StaticText "Därefter bara 85 kr/mån i 3 månader. För dig som bara vill läsa DN."
+    uid=5_5 link "Ja tack" url="https://prenumerera.dn.se/teckna/dn_enkel_0kr_3m_50p_3m/?campaignId=oinloggade&team=egna+kanaler&salesChannel=egna+siter&source=site&medium=popup"
+      uid=5_6 StaticText "Ja tack"
+    uid=5_7 button "Inte just nu"
+    uid=5_8 StaticText "Alla artiklar på DN.se och i DN-appen. DN Enkel 3 mån gratis, sedan halva priset i 3 mån (endast 85 kr/mån). Därefter 169 kr/mån."
